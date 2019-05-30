@@ -1,9 +1,9 @@
-# flapPyBirdDeepFace
+# FlapPyBirdDeepFace
 Flappy Bird with dynamic difficult based on face recognition
 
 Projeto baseado no conceito de dificuldade dinâmica baseado em reconhecimento facial do usuário.
 
-# Requerimentos #
+### Requirements #
 
 1. Python 3.5
 2. Keras 2.0.3
@@ -14,12 +14,17 @@ Projeto baseado no conceito de dificuldade dinâmica baseado em reconhecimento f
 7. Statistics
 8. OpenCV 3.2.0
 
-# Instalação e Execução #
+### Usage #
 
-1. Clonar projeto
+1. Clone project
 2. Run code: ``python3 flappy.py``
 
-# Projetos utilizados: #
+### Projects used: #
 
-1. Flappy Bird Clone based : https://github.com/sourabhv/FlapPyBird
-2. Face Classification : https://github.com/oarriaga/face_classification 
+1. Flappy Bird Clone : https://github.com/sourabhv/FlapPyBird
+2. Face Classification : https://github.com/oarriaga/face_classification
+
+### Authors
+
+[Bruno Brandão](https://github.com/BrunoBSM)  
+[Rafael Marques](https://bitbucket.org/rmarques90/)
